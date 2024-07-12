@@ -1,0 +1,1 @@
+This is the result of completing the tutorial on Freecodecamp.org for List Comprehensions. It is not my own work, it is code that I wrote by having my hand held through a tutorial, then copy and pasting said code into VSC and uploading it here to Git. More to come. Soon I'll make something original.
